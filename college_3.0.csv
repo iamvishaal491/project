@@ -1,0 +1,57 @@
+Name,Location,Fees ,Majors_Offered,Hostel_Facilities,Mess_Facilities,Transport_Details,Management,Percentage,Interview 
+IIT Bombay,Mumbai,200000,"CSE, ECE, ME, CE, EE","Available, affordable, up to 4 years",Veg & Non-veg food available,"Bus available, covers Mumbai suburbs, shortest 5km",No,85%,Yes
+IIT Delhi,Delhi,200000,"CSE, ECE, EE, ME, CE","Available, moderate cost, 4 years stay",Veg & Non-veg meals served,"Bus available, covers NCR region, 3-25km routes",No,60%,Yes
+IIT Madras,Chennai,200000,"CSE, ECE, ME, CE, EE","Available, affordable, up to 4 years",Veg & Non-veg options,"Bus service across Chennai, shortest 4km",Yes,80%,No
+IIT Kanpur,Kanpur,200000,"CSE, EE, ME, CE, AE","Available, subsidized, 4 years stay",Veg & Non-veg food served,"Bus available, nearby cities, 5-30km routes",Yes,90%,No
+IIT Kharagpur,Kharagpur,200000,"CSE, ECE, EE, ME, CE","Available, low cost, 4 years",Veg & Non-veg food,"Bus available, covers town and outskirts",Yes,75%,No
+IIT Roorkee,Roorkee,200000,"CSE, CE, ME, EE, ECE","Available, affordable, 4 years",Veg & Non-veg meals,"Bus available, nearby towns 6-20km",Yes,65%,No
+IIT Guwahati,Guwahati,200000,"CSE, ECE, ME, CE, EE","Available, moderate cost, 4 years",Veg & Non-veg food,"Bus available, city routes, 4-22km",No,75%,No
+IIT Hyderabad,Hyderabad,225000,"CSE, ECE, ME, CE","Available, subsidized, 4 years",Veg & Non-veg options,"Bus covers Hyderabad, 5-25km",No,55%,Yes
+NIT Trichy,Trichy,145000,"CSE, ECE, ME, CE, EE","Hostel available, affordable, 4 years",Veg & Non-veg food,"Bus service nearby towns, 5-15km",Yes,55%,Yes
+NIT Surathkal,Surathkal,145000,"CSE, ME, CE, ECE, EE","Hostel available, moderate cost, 4 years",Veg & Non-veg meals,"Bus to city, 4-20km routes",Yes,80%,Yes
+BITS Pilani,Pilani,450000,"CSE, ECE, ME, CE, EE","Hostel available, high cost, 4 years",Veg & Non-veg food,Bus available to nearby towns,No,80%,Yes
+IIIT Hyderabad,Hyderabad,300000,"CSE, ECE","Hostel available, subsidized, 4 years",Veg & Non-veg options,"Bus covers city, 5-18km",No,70%,No
+NIT Warangal,Warangal,145000,"CSE, ECE, ME, CE","Hostel available, affordable, 4 years",Veg & Non-veg meals,"Bus service city-wide, 5-20km",Yes,65%,Yes
+DTU Delhi,Delhi,190000,"CSE, ECE, ME, EE","Hostel available, moderate cost, 4 years",Veg & Non-veg food,"Bus covers NCR, 3-25km",No,85%,No
+VIT Vellore,Vellore,195000,"CSE, ECE, ME, CE, EE","Hostel available, affordable, 4 years",Veg & Non-veg meals,"Bus service Vellore city, 4-20km",Yes,75%,No
+PSG Tech,Coimbatore,160000,"CSE, ME, ECE","Hostel available, low cost, 4 years",Veg & Non-veg food,"Bus available nearby, 3-15km",Yes,75%,No
+Anna University,Chennai,50000,"CSE, ECE, ME, CE, EE","Hostel available, affordable, 4 years",Veg & Non-veg meals,"Bus covers Chennai, 2-20km",Yes,90%,No
+Jadavpur University,Kolkata,15000,"CSE, ECE, ME, CE","Hostel available, low cost, 4 years",Veg & Non-veg food,"Bus available in city, 4-18km",No,75%,Yes
+NSUT Delhi,Delhi,200000,"CSE, ECE, ME","Hostel available, moderate cost, 4 years",Veg & Non-veg meals,"Bus covers NCR, 3-22km",Yes,60%,No
+NIT Calicut,Calicut,145000,"CSE, ECE, ME, CE","Hostel available, affordable, 4 years",Veg & Non-veg options,"Bus to city, 5-15km",Yes,80%,No
+NIT Rourkela,Rourkela,145000,"CSE, ECE, ME, CE","Hostel available, low cost, 4 years",Veg & Non-veg meals,"Bus service city-wide, 3-20km",Yes,85%,No
+NIT Nagpur,Nagpur,145000,"CSE, ECE, ME, CE","Hostel available, affordable, 4 years",Veg & Non-veg food,"Bus available, 4-18km",Yes,90%,Yes
+NIT Durgapur,Durgapur,145000,"CSE, ECE, ME, CE","Hostel available, low cost, 4 years",Veg & Non-veg meals,"Bus covers city routes, 4-20km",Yes,55%,No
+NIT Kurukshetra,Kurukshetra,145000,"CSE, ECE, ME, CE","Hostel available, affordable, 4 years",Veg & Non-veg food,"Bus service city-wide, 3-15km",No,80%,No
+IIEST Shibpur,Shibpur,120000,"CSE, ECE, ME, CE","Hostel available, low cost, 4 years",Veg & Non-veg meals,"Bus available nearby, 3-20km",Yes,55%,Yes
+IISc Bangalore,Bangalore,2000,"CSE, ECE, ME",No hostel,No mess,"Bus available city-wide, 2-25km",Yes,55%,Yes
+IIT BHU,Varanasi,200000,"CSE, ECE, ME, CE","Hostel available, affordable, 4 years",Veg & Non-veg food,"Bus covers nearby towns, 5-22km",No,50%,Yes
+IIT Dhanbad,Dhanbad,200000,"CSE, ECE, ME, CE","Hostel available, moderate cost, 4 years",Veg & Non-veg meals,"Bus service city-wide, 4-18km",No,60%,Yes
+IIT Indore,Indore,200000,"CSE, ME, CE","Hostel available, subsidized, 4 years",Veg & Non-veg food,"Bus available city routes, 3-20km",No,50%,Yes
+IIT Ropar,Ropar,200000,"CSE, ME, CE","Hostel available, affordable, 4 years",Veg & Non-veg meals,"Bus covers nearby areas, 5-15km",No,65%,Yes
+IIT Mandi,Mandi,200000,"CSE, ECE, AI","Hostel available, low cost, 4 years",Veg & Non-veg food,"Bus available, 5-18km",Yes,70%,Yes
+IIIT Bangalore,Bangalore,300000,"CSE, ECE, AI","Hostel available, moderate cost, 4 years",Veg & Non-veg meals,"Bus covers city, 3-22km",Yes,50%,No
+IIIT Delhi,Delhi,300000,"CSE, ECE, ME","Hostel available, subsidized, 4 years",Veg & Non-veg food,"Bus service NCR, 3-20km",Yes,60%,Yes
+Shiv Nadar University,Greater Noida,260000,"CSE, Data Science, AI","Hostel available, affordable, 4 years",Veg & Non-veg meals,"Bus covers campus and city, 5-20km",Yes,55%,No
+Ashoka University,Sonepat,350000,"CSE, Data Sci, Liberal Arts","Hostel available, moderate cost, 4 years",Veg & Non-veg food,"Bus service campus-city, 4-18km",No,55%,No
+IIIT Pune,Pune,220000,"CSE, AI, DS","Hostel available, affordable, 4 years",Veg & Non-veg meals,"Bus available, 5-20km",Yes,55%,No
+IIIT Bhubaneswar,Bhubaneswar,200000,"CSE, ECE, IT","Hostel available, low cost, 4 years",Veg & Non-veg food,"Bus covers city routes, 4-20km",No,50%,No
+Bennett University,Greater Noida,300000,"CSE, AI, ML","Hostel available, affordable, 4 years",Veg & Non-veg meals,"Bus available campus-city, 5-15km",Yes,90%,No
+NMIMS MPSTME,Mumbai,290000,"CSE, ECE, AI","Hostel available, high cost, 4 years",Veg & Non-veg food,Bus covers city and suburbs,Yes,70%,No
+Amity University,Noida,280000,"CSE, Cybersecurity, ECE","Hostel available, moderate cost, 4 years",Veg & Non-veg meals,"Bus service campus-city, 5-20km",Yes,55%,No
+Reva University,Bangalore,250000,"CSE, AI, DS","Hostel available, affordable, 4 years",Veg & Non-veg food,"Bus covers city, 4-15km",Yes,80%,Yes
+Christ University,Bangalore,270000,"CSE, AI, IT","Hostel available, moderate cost, 4 years",Veg & Non-veg meals,"Bus covers city routes, 4-18km",No,90%,Yes
+Jain University,Bangalore,260000,"CSE, AI, ECE","Hostel available, affordable, 4 years",Veg & Non-veg food,"Bus available city-wide, 3-20km",No,50%,Yes
+Symbiosis Institute of Tech,Pune,240000,"CSE, AI, IT","Hostel available, moderate cost, 4 years",Veg & Non-veg meals,"Bus available city, 5-20km",Yes,85%,Yes
+SRMIST Kattankulathur,Chennai,250000,"CSE, ECE, ME, CE","Hostel available, affordable, 4 years",Veg & Non-veg meals,"Bus covers Chennai, 3-20km",No,75%,No
+Manipal Institute of Tech,Manipal,350000,"CSE, ECE, ME, CE","Hostel available, high cost, 4 years",Veg & Non-veg food,"Bus available city routes, 4-25km",No,75%,No
+UPES School of Engineering,Dehradun,350000,"CSE, AI, Energy Engg.","Hostel available, affordable, 4 years",Veg & Non-veg meals,"Bus covers city, 3-18km",Yes,85%,Yes
+MIT WPU,Pune,260000,"CSE, AI, DS","Hostel available, moderate cost, 4 years",Veg & Non-veg food,"Bus covers city routes, 4-20km",No,75%,No
+Sharda University,Greater Noida,220000,"CSE, AI, ECE","Hostel available, affordable, 4 years",Veg & Non-veg meals,"Bus service city-campus, 4-20km",Yes,60%,No
+Sathyabama Institute of Science and Technology,Chennai,200000,"CSE, ECE, IT, ME, CE","Hostel available, affordable, 4 years",Veg & Non-veg meals,"Bus covers Chennai, 3-18km",No,80%,No
+Vel Tech Rangarajan Dr. Sagunthala R&D Institute,Chennai,180000,"CSE, ECE, ME, CE","Hostel available, low cost, 4 years",Veg & Non-veg food,"Bus available nearby, 3-15km",Yes,75%,No
+Rajalakshmi Engineering College (REC),Chennai,170000,"CSE, IT, ECE, ME","Hostel available, affordable, 4 years",Veg & Non-veg meals,"Bus covers city routes, 3-20km",No,70%,No
+SRM Institute of Science and Technology (Ramapuram),Chennai,230000,"CSE, IT, ECE","Hostel available, moderate cost, 4 years",Veg & Non-veg food,"Bus covers Chennai, 4-20km",Yes,90%,No
+Hindustan Institute of Technology and Science,Chennai,220000,"CSE, AI, Aero, ECE","Hostel available, affordable, 4 years",Veg & Non-veg meals,"Bus available city-wide, 3-20km",Yes,85%,No
+KCG College of Technology,Chennai,160000,"CSE, ECE, ME, CE","Hostel available, low cost, 4 years",Veg & Non-veg food,"Bus covers city, 3-18km",Yes,85%,Yes
+,,,,,,,Yes,90%,No
